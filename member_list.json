@@ -1,0 +1,28 @@
+[
+  {
+    "year": "2019",
+    "member": 
+    [
+      {
+        "name": "柿崎芽実",
+        "name_hiragana": "かきざきめみ",
+        "image": "member_img/memi.kakizaki.jpg",
+        "link" : "hinatazaka46/memi.kakizaki/memi.kakizaki.html",
+        "graduation_date": "2019/08/11"
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "member": 
+    [
+      {
+        "name": "井口真緒",
+        "name_hiragana": "いぐちまお",
+        "image": "member_img/mao.iguchi.jpg",
+        "link" : "hinatazaka46/mao.iguchi/mao.iguchi.html",
+        "graduation_date": "2020/03/30"
+      }
+    ]
+  }
+]
