@@ -1,0 +1,2 @@
+# hinatazaka46GraduateMemberBlog
+ 
